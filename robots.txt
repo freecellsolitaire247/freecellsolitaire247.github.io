@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /category/
-Disallow: /f247/
+Allow: /
